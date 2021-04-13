@@ -1,0 +1,10 @@
+The Even numbers:
+
+18 is even
+8 is even
+36 is even
+18 is even
+18 is even
+8 is even
+36 is even
+18 is even
